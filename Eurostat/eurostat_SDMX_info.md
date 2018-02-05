@@ -12,22 +12,17 @@
 
 ## REST query structure
 ### REST SDMX 2.1 format
-```
-http://ec.europa.eu/SDMX/diss-web/rest/resource/agencyID/resourceID/version
-```
+* http://ec.europa.eu/SDMX/diss-web/rest/resource/agencyID/resourceID/version
 
 ### List of available datasets
-```
-http://ec.europa.eu/eurostat/SDMX/diss-web/rest/dataflow/ESTAT/all/latest
-```
+* http://ec.europa.eu/eurostat/SDMX/diss-web/rest/dataflow/ESTAT/all/latest
 
 ## Querying data
 The following examples show the structure of the queries
-```
 http://ec.europa.eu/eurostat/SDMX/diss-web/rest/resource/flowRef/key/providerRef
 OR
 http://ec.europa.eu/eurostat/SDMX/diss-web/rest/resource/flowRef/key[?[startPeriod=yyyy[mmdd]&]endPeriod=yyyy[mmdd]]
-```
+
 > The response is provided by default in SDMX-ML 2.1 generic schema. Modify the HTTP header field `Accept` with `application/vnd.sdmx.structurespecificdata+xml` to receive a response in SDMX-ML 2.1 structure specific schema.
 > Further information: https://sdmx.org/wp-content/uploads/SDMX_2-1-1-SECTION_07_WebServicesGuidelines_2013-04.pdf
 
@@ -46,9 +41,8 @@ For instance , the request below demands
 * GEO=BE(Belgium)
 * from 2005 to 2011
 
-```
-http://ec.europa.eu/eurostat/SDMX/diss-web/rest/data/cdh_e_fos/..PC.FOS1.BE/?startperiod=2005&endPeriod=2011
-```
+> http://ec.europa.eu/eurostat/SDMX/diss-web/rest/data/cdh_e_fos/..PC.FOS1.BE/?startperiod=2005&endPeriod=2011
+
 
 > #### Further information
 > http://sdmx.org/wp-content/uploads/SDMX_2-1-1-SECTION_07_WebServicesGuidelines_2013-04.pdf
