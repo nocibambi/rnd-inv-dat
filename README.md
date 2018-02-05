@@ -12,7 +12,7 @@ Currently, the main outcomes are visualizations I deployed on [Heroku](https://m
 * [Eurostat: "Digital economy and society"](http://ec.europa.eu/eurostat/web/digital-economy-and-society/overview)
 * [Unesco: "Research and Development"](http://uis.unesco.org/en/topic/research-and-development)
 * [OECD: "Science and Technology and R&D Statistics"](http://www.oecd-ilibrary.org/science-and-technology/data/oecd-science-technology-and-r-d-statistics_strd-data-en)
-* [Euronext Stock Exchange market information](https://www.quandl.com/data/EURONEXT-Euronext-Stock-Exchange?keyword=technology)
+* [Euronext Stock Exchange market query for 'Technology'](https://www.quandl.com/data/EURONEXT-Euronext-Stock-Exchange?keyword=technology)
 * [World Bank Enterprise survey, Innovation and Technology data](http://www.enterprisesurveys.org/data/exploretopics/innovation-and-technology#europe-central-asia)
 
 ## Statistical Data and Metadata eXchange (SDMX)
