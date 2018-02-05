@@ -1,5 +1,23 @@
 # Overview
 
-This page is a collection of the files for a technology and R&D investment data analysis project.
+This page hosts a technology and R&D investment data analysis project.
 
-Currently, the main outcomes are the two visualizations I made from the Eurostat "Science, Technology and Innovation" data set.
+So far I have looked into Eurostat's "Science, Technology and Innovation" data set Eurostat, for which you can find my notes here(/Eurostat).
+
+Currently, the main outcomes are visualizations I deployed on [Heroku](https://morning-plains-86748.herokuapp.com/).
+
+# Resources
+## Datasets
+* [Eurostat: "Science, Technology and Innovation"](http://ec.europa.eu/eurostat/web/science-technology-innovation/data/main-tables)
+* [Eurostat: "Digital economy and society"](http://ec.europa.eu/eurostat/web/digital-economy-and-society/overview)
+* [Unesco: "Research and Development"](http://uis.unesco.org/en/topic/research-and-development)
+* [OECD: "Science and Technology and R&D Statistics"](http://www.oecd-ilibrary.org/science-and-technology/data/oecd-science-technology-and-r-d-statistics_strd-data-en)
+* [Euronext Stock Exchange market information](https://www.quandl.com/data/EURONEXT-Euronext-Stock-Exchange?keyword=technology)
+* [World Bank Enterprise survey, Innovation and Technology data](http://www.enterprisesurveys.org/data/exploretopics/innovation-and-technology#europe-central-asia)
+
+## Statistical Data and Metadata eXchange (SDMX)
+* [Current SDMX projects](http://ec.europa.eu/eurostat/web/sdmx-infospace/sdmx-projects/dsd-availability)
+* [SDMX Technical Standards Working Group](https://github.com/sdmx-twg)
+
+## pandaSDMX
+* [pandaSDMX documentation](https://pandasdmx.readthedocs.io/)
