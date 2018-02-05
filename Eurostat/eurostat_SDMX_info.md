@@ -19,9 +19,9 @@
 
 ## Querying data
 The following examples show the structure of the queries
-http://ec.europa.eu/eurostat/SDMX/diss-web/rest/resource/flowRef/key/providerRef
+* http://ec.europa.eu/eurostat/SDMX/diss-web/rest/resource/flowRef/key/providerRef
 OR
-http://ec.europa.eu/eurostat/SDMX/diss-web/rest/resource/flowRef/key[?[startPeriod=yyyy[mmdd]&]endPeriod=yyyy[mmdd]]
+* http://ec.europa.eu/eurostat/SDMX/diss-web/rest/resource/flowRef/key[?[startPeriod=yyyy[mmdd]&]endPeriod=yyyy[mmdd]]
 
 > The response is provided by default in SDMX-ML 2.1 generic schema. Modify the HTTP header field `Accept` with `application/vnd.sdmx.structurespecificdata+xml` to receive a response in SDMX-ML 2.1 structure specific schema.
 > Further information: https://sdmx.org/wp-content/uploads/SDMX_2-1-1-SECTION_07_WebServicesGuidelines_2013-04.pdf
