@@ -2,7 +2,7 @@
 
 This page hosts a technology and R&D investment data analysis project.
 
-So far I have looked into Eurostat's "Science, Technology and Innovation" data set Eurostat, for which you can find my notes here(/Eurostat).
+So far I have looked into Eurostat's "Science, Technology and Innovation" data set Eurostat, for which you can find my notes [here](Eurostat).
 
 Currently, the main outcomes are visualizations I deployed on [Heroku](https://morning-plains-86748.herokuapp.com/).
 
