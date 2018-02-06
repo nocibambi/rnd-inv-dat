@@ -21,3 +21,6 @@ Currently, the main outcomes are visualizations I deployed [**here**](http://nbv
 
 ## pandaSDMX
 * [pandaSDMX documentation](https://pandasdmx.readthedocs.io/)
+
+## Eurostat SDMX Rest API
+* [Some collected notes on info I found useful](rnd-inv-dat/Eurostat/eurostat_SDMX_info.md)
