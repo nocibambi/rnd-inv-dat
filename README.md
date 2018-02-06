@@ -4,7 +4,7 @@ This page hosts a technology and R&D investment data analysis project.
 
 So far I have looked into Eurostat's "Science, Technology and Innovation" data set Eurostat, for which you can find my notes [here](Eurostat).
 
-Currently, the main outcomes are visualizations I deployed on [here](http://nbviewer.jupyter.org/github/nocibambi/rnd-inv-dat/blob/master/Eurostat/Business%20R%26D%20expenditure.ipynb) and [here](http://nbviewer.jupyter.org/github/nocibambi/rnd-inv-dat/blob/master/Eurostat/Venture%20Capital.ipynb).
+Currently, the main outcomes are visualizations I deployed [here](http://nbviewer.jupyter.org/github/nocibambi/rnd-inv-dat/blob/master/Eurostat/Business%20R%26D%20expenditure.ipynb) and [here](http://nbviewer.jupyter.org/github/nocibambi/rnd-inv-dat/blob/master/Eurostat/Venture%20Capital.ipynb).
 
 # Resources
 ## Datasets
